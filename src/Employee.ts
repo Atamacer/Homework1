@@ -1,6 +1,6 @@
 import type { WorkPlace } from './WorkPlace.js';
 
-export default class Employee {
+export class Employee {
     private name: string;
     private age: number;
     private workPlace: WorkPlace;
