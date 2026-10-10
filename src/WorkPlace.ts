@@ -1,4 +1,4 @@
-import Employee from './Employee.js';
+import type { Employee } from './Employee.js';
 
 export class WorkPlace {
     private address: string;
